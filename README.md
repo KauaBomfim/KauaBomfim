@@ -1,4 +1,4 @@
-## Oiii eu sou o Kauã Bomfim e atualmente web developer!
+## Oii eu sou o Kauã Bomfim e atualmente sou desenvolvedor full stack!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="kaua-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
