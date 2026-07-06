@@ -2,13 +2,13 @@
 
 **`Analista de dados`**
 
-Me chamo Kauã Bomfim, tenho 22 anos e sou natural do Rio de Janeiro. Atualmente, me formei em Análise e Desenvolvimento de Sistemas na UNISUAM. A área que estudo e desenvolvo é a de dados, SQL e BI foi onde encontrei o meu vicío.
+Me chamo Kauã Bomfim, tenho 23 anos e sou natural do Rio de Janeiro. Atualmente, me formei em Análise e Desenvolvimento de Sistemas na UNISUAM. A área que estudo e desenvolvo é a de dados, SQL e BI foi onde encontrei o que mais gosto de fazer.
 
 <p align="left"> 
     <a href="https://www.linkedin.com/in/kau%C3%A3-bomfim/">
          <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
      </a>
-     <a href = "mailto:kauabomfim002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+     <a href = "mailto:kauabomfim021@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 
 ---
